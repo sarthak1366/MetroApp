@@ -1,0 +1,115 @@
+source,destination,distance
+New Delhi,Chandni Chowk,2.3
+New Delhi,Rajiv Chowk,2.6
+New Delhi,Kashmere Gate,3.4
+Chandni Chowk,Rajiv Chowk,1.2
+Chandni Chowk,Kashmere Gate,1.8
+Chandni Chowk,Central Secretariat,3.0
+Rajiv Chowk,Kashmere Gate,1.9
+Rajiv Chowk,Central Secretariat,1.7
+Rajiv Chowk,Saket,3.8
+Kashmere Gate,Central Secretariat,2.7
+Kashmere Gate,Saket,5.6
+Kashmere Gate,Hauz Khas,10.4
+Central Secretariat,Saket,5.2
+Central Secretariat,Hauz Khas,9.6
+Central Secretariat,Dwarka Sector 21,20.1
+Saket,Hauz Khas,1.9
+Saket,Dwarka Sector 21,18.6
+Saket,Karol Bagh,5.9
+Hauz Khas,Dwarka Sector 21,20.0
+Hauz Khas,Karol Bagh,6.4
+Hauz Khas,Patel Chowk,9.2
+Dwarka Sector 21,Karol Bagh,19.5
+Dwarka Sector 21,Patel Chowk,18.9
+Dwarka Sector 21,Mandi House,18.7
+Karol Bagh,Patel Chowk,1.8
+Karol Bagh,Mandi House,5.7
+Karol Bagh,Janpath,5.3
+Patel Chowk,Mandi House,0.7
+Patel Chowk,Janpath,0.9
+Patel Chowk,ITO (Indraprastha),2.0
+Mandi House,Janpath,0.3
+Mandi House,ITO (Indraprastha),1.5
+Mandi House,Akshardham,6.8
+Janpath,ITO (Indraprastha),2.4
+Janpath,Akshardham,6.9
+Janpath,Lajpat Nagar,6.1
+ITO (Indraprastha),Akshardham,2.2
+ITO (Indraprastha),Lajpat Nagar,6.8
+ITO (Indraprastha),Malviya Nagar,8.5
+Akshardham,Lajpat Nagar,6.2
+Akshardham,Malviya Nagar,9.1
+Akshardham,Nehru Place,7.5
+Lajpat Nagar,Malviya Nagar,2.7
+Lajpat Nagar,Nehru Place,4.0
+Lajpat Nagar,Rajouri Garden,9.8
+Malviya Nagar,Nehru Place,3.9
+Malviya Nagar,Rajouri Garden,10.1
+Malviya Nagar,Azadpur,14.3
+Nehru Place,Rajouri Garden,9.6
+Nehru Place,Azadpur,10.3
+Nehru Place,Botanical Garden,14.2
+Rajouri Garden,Azadpur,12.0
+Rajouri Garden,Botanical Garden,15.3
+Rajouri Garden,Shastri Nagar,8.6
+Azadpur,Botanical Garden,13.0
+Azadpur,Shastri Nagar,3.9
+Azadpur,Civil Lines,8.8
+Botanical Garden,Shastri Nagar,3.7
+Botanical Garden,Civil Lines,13.0
+Botanical Garden,INA,9.2
+Shastri Nagar,Civil Lines,9.2
+Shastri Nagar,INA,4.6
+Shastri Nagar,Udyog Bhawan,7.8
+Civil Lines,INA,4.6
+Civil Lines,Udyog Bhawan,6.7
+Civil Lines,Malviya Nagar,16.9
+INA,Udyog Bhawan,3.2
+INA,Malviya Nagar,7.5
+INA,AIIMS,1.9
+Udyog Bhawan,Malviya Nagar,9.1
+Udyog Bhawan,AIIMS,4.0
+Udyog Bhawan,Nangloi Railway Station,19.4
+Malviya Nagar,AIIMS,4.2
+Malviya Nagar,Nangloi Railway Station,21.9
+Malviya Nagar,Laxmi Nagar,9.1
+AIIMS,Nangloi Railway Station,20.0
+AIIMS,Laxmi Nagar,7.9
+AIIMS,GTB Nagar,7.8
+Nangloi Railway Station,Laxmi Nagar,25.3
+Nangloi Railway Station,GTB Nagar,22.7
+Nangloi Railway Station,Adarsh Nagar,20.4
+Laxmi Nagar,GTB Nagar,4.5
+Laxmi Nagar,Adarsh Nagar,16.8
+Laxmi Nagar,Vaishali,12.4
+GTB Nagar,Adarsh Nagar,7.4
+GTB Nagar,Vaishali,27.4
+GTB Nagar,Jahangirpuri,6.5
+Adarsh Nagar,Vaishali,30.7
+Adarsh Nagar,Jahangirpuri,9.3
+Adarsh Nagar,Kanhaiya Nagar,7.1
+Vaishali,Jahangirpuri,26.0
+Vaishali,Kanhaiya Nagar,22.8
+Vaishali,Okhla,27.9
+Jahangirpuri,Kanhaiya Nagar,2.5
+Jahangirpuri,Okhla,18.5
+Jahangirpuri,Sikanderpur,28.6
+Kanhaiya Nagar,Okhla,20.8
+Kanhaiya Nagar,Sikanderpur,26.3
+Kanhaiya Nagar,Chhattarpur,29.4
+Okhla,Sikanderpur,20.5
+Okhla,Chhattarpur,11.5
+Okhla,Anand Vihar,17.2
+Sikanderpur,Chhattarpur,2.4
+Sikanderpur,Anand Vihar,18.6
+Sikanderpur,Badarpur,17.9
+Chhattarpur,Anand Vihar,26.8
+Chhattarpur,Badarpur,15.7
+Chhattarpur,Dwarka Sector 8,14.5
+Anand Vihar,Badarpur,18.7
+Anand Vihar,Laxmi Nagar,6.1
+Badarpur,Laxmi Nagar,12.4
+Badarpur,GTB Nagar,21.8
+Dwarka Sector 8,Laxmi Nagar,26.7
+Dwarka Sector 8,GTB Nagar,22.6

@@ -1,0 +1,575 @@
+{
+    "stations": [
+      {
+        "source": "New Delhi",
+        "destination": "Chandni Chowk",
+        "distance": 2.3
+      },
+      {
+        "source": "New Delhi",
+        "destination": "Rajiv Chowk",
+        "distance": 2.6
+      },
+      {
+        "source": "New Delhi",
+        "destination": "Kashmere Gate",
+        "distance": 3.4
+      },
+      {
+        "source": "Chandni Chowk",
+        "destination": "Rajiv Chowk",
+        "distance": 1.2
+      },
+      {
+        "source": "Chandni Chowk",
+        "destination": "Kashmere Gate",
+        "distance": 1.8
+      },
+      {
+        "source": "Chandni Chowk",
+        "destination": "Central Secretariat",
+        "distance": 3.0
+      },
+      {
+        "source": "Rajiv Chowk",
+        "destination": "Kashmere Gate",
+        "distance": 1.9
+      },
+      {
+        "source": "Rajiv Chowk",
+        "destination": "Central Secretariat",
+        "distance": 1.7
+      },
+      {
+        "source": "Rajiv Chowk",
+        "destination": "Saket",
+        "distance": 3.8
+      },
+      {
+        "source": "Kashmere Gate",
+        "destination": "Central Secretariat",
+        "distance": 2.7
+      },
+      {
+        "source": "Kashmere Gate",
+        "destination": "Saket",
+        "distance": 5.6
+      },
+      {
+        "source": "Kashmere Gate",
+        "destination": "Hauz Khas",
+        "distance": 10.4
+      },
+      {
+        "source": "Central Secretariat",
+        "destination": "Saket",
+        "distance": 5.2
+      },
+      {
+        "source": "Central Secretariat",
+        "destination": "Hauz Khas",
+        "distance": 9.6
+      },
+      {
+        "source": "Central Secretariat",
+        "destination": "Dwarka Sector 21",
+        "distance": 20.1
+      },
+      {
+        "source": "Saket",
+        "destination": "Hauz Khas",
+        "distance": 1.9
+      },
+      {
+        "source": "Saket",
+        "destination": "Dwarka Sector 21",
+        "distance": 18.6
+      },
+      {
+        "source": "Saket",
+        "destination": "Karol Bagh",
+        "distance": 5.9
+      },
+      {
+        "source": "Hauz Khas",
+        "destination": "Dwarka Sector 21",
+        "distance": 20.0
+      },
+      {
+        "source": "Hauz Khas",
+        "destination": "Karol Bagh",
+        "distance": 6.4
+      },
+      {
+        "source": "Hauz Khas",
+        "destination": "Patel Chowk",
+        "distance": 9.2
+      },
+      {
+        "source": "Dwarka Sector 21",
+        "destination": "Karol Bagh",
+        "distance": 19.5
+      },
+      {
+        "source": "Dwarka Sector 21",
+        "destination": "Patel Chowk",
+        "distance": 18.9
+      },
+      {
+        "source": "Dwarka Sector 21",
+        "destination": "Mandi House",
+        "distance": 18.7
+      },
+      {
+        "source": "Karol Bagh",
+        "destination": "Patel Chowk",
+        "distance": 1.8
+      },
+      {
+        "source": "Karol Bagh",
+        "destination": "Mandi House",
+        "distance": 5.7
+      },
+      {
+        "source": "Karol Bagh",
+        "destination": "Janpath",
+        "distance": 5.3
+      },
+      {
+        "source": "Patel Chowk",
+        "destination": "Mandi House",
+        "distance": 0.7
+      },
+      {
+        "source": "Patel Chowk",
+        "destination": "Janpath",
+        "distance": 0.9
+      },
+      {
+        "source": "Patel Chowk",
+        "destination": "ITO (Indraprastha)",
+        "distance": 2.0
+      },
+      {
+        "source": "Mandi House",
+        "destination": "Janpath",
+        "distance": 0.3
+      },
+      {
+        "source": "Mandi House",
+        "destination": "ITO (Indraprastha)",
+        "distance": 1.5
+      },
+      {
+        "source": "Mandi House",
+        "destination": "Akshardham",
+        "distance": 6.8
+      },
+      {
+        "source": "Janpath",
+        "destination": "ITO (Indraprastha)",
+        "distance": 2.4
+      },
+      {
+        "source": "Janpath",
+        "destination": "Akshardham",
+        "distance": 6.9
+      },
+      {
+        "source": "Janpath",
+        "destination": "Lajpat Nagar",
+        "distance": 6.1
+      },
+      {
+        "source": "ITO (Indraprastha)",
+        "destination": "Akshardham",
+        "distance": 2.2
+      },
+      {
+        "source": "ITO (Indraprastha)",
+        "destination": "Lajpat Nagar",
+        "distance": 6.8
+      },
+      {
+        "source": "ITO (Indraprastha)",
+        "destination": "Malviya Nagar",
+        "distance": 8.5
+      },
+      {
+        "source": "Akshardham",
+        "destination": "Lajpat Nagar",
+        "distance": 6.2
+      },
+      {
+        "source": "Akshardham",
+        "destination": "Malviya Nagar",
+        "distance": 9.1
+      },
+      {
+        "source": "Akshardham",
+        "destination": "Nehru Place",
+        "distance": 7.5
+      },
+      {
+        "source": "Lajpat Nagar",
+        "destination": "Malviya Nagar",
+        "distance": 2.7
+      },
+      {
+        "source": "Lajpat Nagar",
+        "destination": "Nehru Place",
+        "distance": 4.0
+      },
+      {
+        "source": "Lajpat Nagar",
+        "destination": "Rajouri Garden",
+        "distance": 9.8
+      },
+      {
+        "source": "Malviya Nagar",
+        "destination": "Nehru Place",
+        "distance": 3.9
+      },
+      {
+        "source": "Malviya Nagar",
+        "destination": "Rajouri Garden",
+        "distance": 10.1
+      },
+      {
+        "source": "Malviya Nagar",
+        "destination": "Azadpur",
+        "distance": 14.3
+      },
+      {
+        "source": "Nehru Place",
+        "destination": "Rajouri Garden",
+        "distance": 9.6
+      },
+      {
+        "source": "Nehru Place",
+        "destination": "Azadpur",
+        "distance": 10.3
+      },
+      {
+        "source": "Nehru Place",
+        "destination": "Botanical Garden",
+        "distance": 14.2
+      },
+      {
+        "source": "Rajouri Garden",
+        "destination": "Azadpur",
+        "distance": 12.0
+      },
+      {
+        "source": "Rajouri Garden",
+        "destination": "Botanical Garden",
+        "distance": 15.3
+      },
+      {
+        "source": "Rajouri Garden",
+        "destination": "Shastri Nagar",
+        "distance": 8.6
+      },
+      {
+        "source": "Azadpur",
+        "destination": "Botanical Garden",
+        "distance": 13.0
+      },
+      {
+        "source": "Azadpur",
+        "destination": "Shastri Nagar",
+        "distance": 3.9
+      },
+      {
+        "source": "Azadpur",
+        "destination": "Civil Lines",
+        "distance": 8.8
+      },
+      {
+        "source": "Botanical Garden",
+        "destination": "Shastri Nagar",
+        "distance": 3.7
+      },
+      {
+        "source": "Botanical Garden",
+        "destination": "Civil Lines",
+        "distance": 13.0
+      },
+      {
+        "source": "Botanical Garden",
+        "destination": "INA",
+        "distance": 9.2
+      },
+      {
+        "source": "Shastri Nagar",
+        "destination": "Civil Lines",
+        "distance": 9.2
+      },
+      {
+        "source": "Shastri Nagar",
+        "destination": "INA",
+        "distance": 4.6
+      },
+      {
+        "source": "Shastri Nagar",
+        "destination": "Udyog Bhawan",
+        "distance": 7.8
+      },
+      {
+        "source": "Civil Lines",
+        "destination": "INA",
+        "distance": 4.6
+      },
+      {
+        "source": "Civil Lines",
+        "destination": "Udyog Bhawan",
+        "distance": 6.7
+      },
+      {
+        "source": "Civil Lines",
+        "destination": "Malviya Nagar",
+        "distance": 16.9
+      },
+      {
+        "source": "INA",
+        "destination": "Udyog Bhawan",
+        "distance": 3.2
+      },
+      {
+        "source": "INA",
+        "destination": "Malviya Nagar",
+        "distance": 7.5
+      },
+      {
+        "source": "INA",
+        "destination": "AIIMS",
+        "distance": 1.9
+      },
+      {
+        "source": "Udyog Bhawan",
+        "destination": "Malviya Nagar",
+        "distance": 9.1
+      },
+      {
+        "source": "Udyog Bhawan",
+        "destination": "AIIMS",
+        "distance": 4.0
+      },
+      {
+        "source": "Udyog Bhawan",
+        "destination": "Nangloi Railway Station",
+        "distance": 19.4
+      },
+      {
+        "source": "Malviya Nagar",
+        "destination": "AIIMS",
+        "distance": 4.2
+      },
+      {
+        "source": "Malviya Nagar",
+        "destination": "Nangloi Railway Station",
+        "distance": 21.9
+      },
+      {
+        "source": "Malviya Nagar",
+        "destination": "Laxmi Nagar",
+        "distance": 9.1
+      },
+      {
+        "source": "AIIMS",
+        "destination": "Nangloi Railway Station",
+        "distance": 20.0
+      },
+      {
+        "source": "AIIMS",
+        "destination": "Laxmi Nagar",
+        "distance": 7.9
+      },
+      {
+        "source": "AIIMS",
+        "destination": "GTB Nagar",
+        "distance": 7.8
+      },
+      {
+        "source": "Nangloi Railway Station",
+        "destination": "Laxmi Nagar",
+        "distance": 25.3
+      },
+      {
+        "source": "Nangloi Railway Station",
+        "destination": "GTB Nagar",
+        "distance": 22.7
+      },
+      {
+        "source": "Nangloi Railway Station",
+        "destination": "Adarsh Nagar",
+        "distance": 20.4
+      },
+      {
+        "source": "Laxmi Nagar",
+        "destination": "GTB Nagar",
+        "distance": 4.5
+      },
+      {
+        "source": "Laxmi Nagar",
+        "destination": "Adarsh Nagar",
+        "distance": 16.8
+      },
+      {
+        "source": "Laxmi Nagar",
+        "destination": "Vaishali",
+        "distance": 12.4
+      },
+      {
+        "source": "GTB Nagar",
+        "destination": "Adarsh Nagar",
+        "distance": 7.4
+      },
+      {
+        "source": "GTB Nagar",
+        "destination": "Vaishali",
+        "distance": 27.4
+      },
+      {
+        "source": "GTB Nagar",
+        "destination": "Jahangirpuri",
+        "distance": 6.5
+      },
+      {
+        "source": "Adarsh Nagar",
+        "destination": "Vaishali",
+        "distance": 30.7
+      },
+      {
+        "source": "Adarsh Nagar",
+        "destination": "Jahangirpuri",
+        "distance": 9.3
+      },
+      {
+        "source": "Adarsh Nagar",
+        "destination": "Kanhaiya Nagar",
+        "distance": 7.1
+      },
+      {
+        "source": "Vaishali",
+        "destination": "Jahangirpuri",
+        "distance": 26.0
+      },
+      {
+        "source": "Vaishali",
+        "destination": "Kanhaiya Nagar",
+        "distance": 22.8
+      },
+      {
+        "source": "Vaishali",
+        "destination": "Okhla",
+        "distance": 27.9
+      },
+      {
+        "source": "Jahangirpuri",
+        "destination": "Kanhaiya Nagar",
+        "distance": 2.5
+      },
+      {
+        "source": "Jahangirpuri",
+        "destination": "Okhla",
+        "distance": 18.5
+      },
+      {
+        "source": "Jahangirpuri",
+        "destination": "Sikanderpur",
+        "distance": 28.6
+      },
+      {
+        "source": "Kanhaiya Nagar",
+        "destination": "Okhla",
+        "distance": 20.8
+      },
+      {
+        "source": "Kanhaiya Nagar",
+        "destination": "Sikanderpur",
+        "distance": 26.3
+      },
+      {
+        "source": "Kanhaiya Nagar",
+        "destination": "Chhattarpur",
+        "distance": 29.4
+      },
+      {
+        "source": "Okhla",
+        "destination": "Sikanderpur",
+        "distance": 20.5
+      },
+      {
+        "source": "Okhla",
+        "destination": "Chhattarpur",
+        "distance": 11.5
+      },
+      {
+        "source": "Okhla",
+        "destination": "Anand Vihar",
+        "distance": 17.2
+      },
+      {
+        "source": "Sikanderpur",
+        "destination": "Chhattarpur",
+        "distance": 2.4
+      },
+      {
+        "source": "Sikanderpur",
+        "destination": "Anand Vihar",
+        "distance": 18.6
+      },
+      {
+        "source": "Sikanderpur",
+        "destination": "Badarpur",
+        "distance": 17.9
+      },
+      {
+        "source": "Chhattarpur",
+        "destination": "Anand Vihar",
+        "distance": 26.8
+      },
+      {
+        "source": "Chhattarpur",
+        "destination": "Badarpur",
+        "distance": 15.7
+      },
+      {
+        "source": "Chhattarpur",
+        "destination": "Dwarka Sector 8",
+        "distance": 14.5
+      },
+      {
+        "source": "Anand Vihar",
+        "destination": "Badarpur",
+        "distance": 18.7
+      },
+      {
+        "source": "Anand Vihar",
+        "destination": "Laxmi Nagar",
+        "distance": 6.1
+      },
+      {
+        "source": "Badarpur",
+        "destination": "Laxmi Nagar",
+        "distance": 12.4
+      },
+      {
+        "source": "Badarpur",
+        "destination": "GTB Nagar",
+        "distance": 21.8
+      },
+      {
+        "source": "Dwarka Sector 8",
+        "destination": "Laxmi Nagar",
+        "distance": 26.7
+      },
+      {
+        "source": "Dwarka Sector 8",
+        "destination": "GTB Nagar",
+        "distance": 22.6
+      }
+    ]
+  }
+  
